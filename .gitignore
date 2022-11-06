@@ -1,2 +1,4 @@
 *.zip
 *.pickle
+*.pt
+*.gz
